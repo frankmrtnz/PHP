@@ -1,0 +1,7 @@
+SQLSTATE[HY000] [1045] Access denied for user 'roota'@'localhost' (using password: NO)
+SQLSTATE[HY000] [1045] Access denied for user 'roota'@'localhost' (using password: NO)
+SQLSTATE[HY000] [1045] Access denied for user 'roota'@'localhost' (using password: NO)
+SQLSTATE[HY000] [1045] Access denied for user 'roota'@'localhost' (using password: NO)
+SQLSTATE[HY000] [1045] Access denied for user 'roota'@'localhost' (using password: NO)
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '³n VARCHAR(20) NOT NULL , Dormitorios INT(20) NOT NULL DEFAULT 3 , Precio INT(2' at line 1
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '±o INT(20) NOT NULL , Extras VARCHAR(50) NOT NULL , Foto VARCHAR(30) NOT NULL ,' at line 1

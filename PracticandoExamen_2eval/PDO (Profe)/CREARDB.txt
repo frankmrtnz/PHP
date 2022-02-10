@@ -1,0 +1,21 @@
+CREATE DATABASE IF NOT EXISTS DB1;
+
+drop table tb1;
+
+CREATE TABLE IF NOT EXISTS TB1(
+ID INT AUTO_INCREMENT,
+nombres VARCHAR(20),
+apellidos VARCHAR(20),
+localidad varchar(20),
+ PRIMARY KEY (id));
+ 
+ insert into tb1(nombres, apellidos, localidad) values('pepe1','martin1','mostoles1');
+ insert into tb1(nombres, apellidos, localidad) values('pepe2','martin2','mostoles2');
+ insert into tb1(nombres, apellidos, localidad) values('pepe3','martin3','mostoles3');
+ insert into tb1(nombres, apellidos, localidad) values('pepe4','martin4','mostoles4');
+ insert into tb1(nombres, apellidos, localidad) values('pepe5','martin5','mostoles5');
+ insert into tb1(nombres, apellidos, localidad) values('pepe6','martin16','mostoles6';
+ insert into tb1(nombres, apellidos, localidad) values('pepe7','martin27','mostoles7');
+ insert into tb1(nombres, apellidos, localidad) values('pepe8','martin38','mostoles8');
+ insert into tb1(nombres, apellidos, localidad) values('pepe10','martin49','mostoles9');
+ insert into tb1(nombres, apellidos, localidad) values('pepe11','martin50','mostoles10');

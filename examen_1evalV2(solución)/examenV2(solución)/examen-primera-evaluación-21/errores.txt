@@ -1,0 +1,10 @@
+Error en el nombre
+Error en los apellidos
+Error en la dirección
+Error en el email
+Error en el turno
+Error en las observaciones
+Error en las observaciones
+Error en los datos de edad/titulación/curso
+Error en la dirección
+Error en el nombre

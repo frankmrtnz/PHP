@@ -1,0 +1,66 @@
+El código tiene solo la estructura html que se solicita, por lo que para que pueda utilizarse debidamente se tendrá que terminar de cumplmentar,  
+para que al llegar al servidor este pueda identificar cada control tal, y se pueda manejar tal y como se pide en el enunciado
+
+<HTML LANG="es">
+<HEAD>
+   <TITLE>Subida de MATRICULA</TITLE>
+   <LINK REL="stylesheet" TYPE="text/css" HREF=            >
+</HEAD>
+
+<BODY>
+
+<H1>MATRICULA IES MÓSTOLES</H1>
+
+<P>Introduzca los datos del Solicitante :</P>
+
+<FORM CLASS="borde" ACTION=    METHOD=         ENCTYPE=       >
+
+		<P><LABEL>Datos Personales del solicitante:</LABEL>
+		<span>Nombre:    <INPUT TYPE="text" NAME=        size="80"></span><br><br>
+		<span> Apellidos:<INPUT TYPE="text" NAME=     size="80"></span><br><br>
+		<span> Dirección:<INPUT TYPE="text" NAME=     size="80"></span>
+		<span> Email de Contacto:<INPUT TYPE="text" NAME=   size="20"></spa</P>
+
+		<P><LABEL>Selecciona el  Ciclo Formativo:</LABEL>
+		<SELECT NAME=      >
+			<OPTION VALUE="vacio">...Seleccione...
+			<OPTION VALUE="SMR">SMR
+			<OPTION VALUE="ASIR">ASIR
+		    <OPTION VALUE="DAW"> DAW
+		    <OPTION VALUE="DAM">DAM
+		</SELECT></P><br>
+
+		<br><P><LABEL>Selecciona tu rango de edad:</LABEL>
+		<SELECT NAME=      >
+
+			<OPTION VALUE="vacio">...Seleccione...
+		   	<OPTION VALUE="16-18">16-18
+		   	<OPTION VALUE="Mas de 18">Más de 18
+		   
+		</SELECT></P><br>
+
+
+		<br><P><LABEL>Estudios de los que dispone:</LABEL>
+		<INPUT TYPE="radio" NAME=        VALUE="ESO"         >ESO
+		<INPUT TYPE="radio" NAME=        VALUE="BACHILLERATO">BACHILLERATO
+
+		<br><P><LABEL>turno que prefiere</LABEL>
+		<INPUT TYPE="checkbox" NAME=     VALUE="Mañana">Mañana
+		<INPUT TYPE="checkbox" NAME=     VALUE="Tarde">Tarde
+		<INPUT TYPE="checkbox" NAME=     VALUE="Solo fin de semana">Solo fin de semana</P><br>
+
+		<P><LABEL>Foto del Solicitante :</LABEL>
+
+		<INPUT TYPE=     NAME=    VALUE=     >
+		<INPUT TYPE=     NAME=               >
+		</P>
+
+		<br><P><LABEL>Observaciones:</LABEL>
+		<TEXTAREA NAME="observaciones" COLS="50" ROWS="5"></TEXTAREA></P><br>
+
+		<P><INPUT TYPE="submit" NAME=       VALUE=         ></P>
+
+</FORM>
+
+</BODY>
+</HTML>

@@ -1,0 +1,4 @@
+Turquia:Kazajistan:18 dias:miercoles
+Turquia:Kazajistan:18 dias:miercoles
+Madrid:Barcelona:20 dias:viernes,jueves
+Prueba:Sevilla:30 dias:lunes

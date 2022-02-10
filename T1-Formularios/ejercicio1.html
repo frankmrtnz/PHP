@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio1-FORM</title>
+</head>
+<body>
+    
+<h1>CONVERTIDOR DE DIVISAS (FORMULARIO)</h1>
+<p>Escriba la cantidad de dinero (0 <= valores <= 1.000.000) y elija la divisa</p>
+
+<form action="ejercicio1.php" method="POST">
+    <p>
+    Convertir: <input type="number" name="cantidad">
+    <select name="divisa">
+        <option value="USD" selected>Dólares USA</option>
+        <option value="JPY">Yenes japoneses</option>
+        <option value="GBP">Libras esterlinas</option>
+        <option value="PST">Pesetas españolas</option>
+    </select>
+    en euros
+    </p>
+
+    <p>
+    <button type="submit" value="enviar">CONVERTIR</button>
+    <button type="reset" value="borrar">BORRAR</button>
+    </p>
+</form>
+
+</body>
+</html>

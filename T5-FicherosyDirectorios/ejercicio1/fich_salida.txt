@@ -1,0 +1,6 @@
+<b>Nombre:</b> Joel - <b>Apellidos:</b> Mrtnz - <b>Teléfono:</b> 799546337 - <b>Email:</b> prueba@gmail.com 
+fich_salida.txt (tamaño): 110 bytes 
+<b>Nombre:</b> Paco12 - <b>Apellidos:</b> Mrtnz - <b>Teléfono:</b> 722377414 - <b>Email:</b> prueba2@gmail.com 
+fich_salida.txt (tamaño): 261 bytes 
+<b>Nombre:</b> Paco - <b>Apellidos:</b> Mrtnz - <b>Teléfono:</b> 916465638 - <b>Email:</b> fulanito@gmail.com 
+fich_salida.txt (tamaño): 411 bytes 
